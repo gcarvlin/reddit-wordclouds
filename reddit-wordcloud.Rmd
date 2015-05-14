@@ -1,7 +1,7 @@
 ---
 title: 'Reddit Wordclouds with Python and R'
 author: "Brian High"
-date: "05/13/2015"
+date: "`r format(Sys.time(), '%B %d, %Y')`"
 license: CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0/
 output: 
     html_document:

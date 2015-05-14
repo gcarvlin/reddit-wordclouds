@@ -1,6 +1,10 @@
 # Reddit Wordclouds with Python and R
-Brian High  
-05/13/2015  
+[Brian High](https://github.com/brianhigh)  
+![CC BY-SA 4.0](cc_by-sa_4.png)  
+
+## 
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
 ## Get word frequencies
 
@@ -143,11 +147,6 @@ wc("rstats")
 
 ```r
 wc("learnprogramming")
-```
-
-```
-## Warning in wordcloud(data$word, data$freq, colors = brewer.pal(12,
-## "Set3"), : language could not be fit on page. It will not be plotted.
 ```
 
 ![](reddit-wordcloud-pres_files/figure-html/unnamed-chunk-12-1.png) 

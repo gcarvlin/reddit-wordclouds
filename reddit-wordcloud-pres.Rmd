@@ -1,8 +1,7 @@
 ---
 title: 'Reddit Wordclouds with Python and R'
-author: "Brian High"
-date: "05/13/2015"
-license: CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0/
+author: "[Brian High](https://github.com/brianhigh)"
+date: "![CC BY-SA 4.0](cc_by-sa_4.png)"
 output:
   ioslides_presentation:
     fig_caption: yes
@@ -11,8 +10,12 @@ output:
     fig_height: 4
     keep_md: yes
     smaller: yes
-    logo: cc_by-sa_logo_128.png
+    logo: uw_seal_128.png
 ---
+
+## 
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
 ## Get word frequencies
 
